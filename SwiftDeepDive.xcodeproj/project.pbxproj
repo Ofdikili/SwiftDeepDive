@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		783647BD2D45967200E819C4 /* SwiftDeepDive */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftDeepDive; sourceTree = BUILT_PRODUCTS_DIR; };
+		783647C92D4597C700E819C4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		783647B42D45967200E819C4 = {
 			isa = PBXGroup;
 			children = (
+				783647C92D4597C700E819C4 /* README.md */,
 				783647BF2D45967200E819C4 /* SwiftDeepDive */,
 				783647BE2D45967200E819C4 /* Products */,
 			);
