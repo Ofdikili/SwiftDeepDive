@@ -7,35 +7,33 @@ This repository contains my Swift learning journey, covering fundamentals to adv
 ## Beginner Level - Swift Fundamentals
 1. **Variables and Constants** (`var`, `let`, data types)
 2. **Operators** (arithmetic, comparison, logical, assignment)
-3. **Basic Operators**
-4. **Strings and Characters**
-5. **Collection Types** (`Array`, `Set`, `Dictionary`)
-6. **Control Flow** (`if`, `else`, `switch`, loops)
-7. **Functions** (parameters, return types, default values)
-8. **Closures (`Closures`)**
-9. **Enumerations (`Enums`)**
+2. **Collection Types** (`Array`, `Set`, `Dictionary`)
+3 **Control Flow** (`if`, `else`, `switch`, loops)
+4. **Functions** (parameters, return types, default values)
+5. **Closures (`Closures`)**
+6. **Enumerations (`Enums`)**
 
 ## Intermediate Level - Object-Oriented Programming (OOP)
-10. **Classes and Structures (`class`, `struct`)**
-11. **Properties (`Stored & Computed`)**
-12. **Methods**
-13. **Subscripts**
-14. **Inheritance and `super` Keyword**
-15. **Initialization (`init`) and Deinitialization (`deinit`)**
-16. **Access Control (`private`, `public`, `internal`, `fileprivate`)**
-17. **Optional Chaining**
-18. **Error Handling (`Error Handling`)**
-19. **Nested Types**
+7. **Classes and Structures (`class`, `struct`)**
+8. **Properties (`Stored & Computed`)**
+9. **Methods**
+10. **Subscripts**
+11. **Inheritance and `super` Keyword**
+12. **Initialization (`init`) and Deinitialization (`deinit`)**
+13. **Access Control (`private`, `public`, `internal`, `fileprivate`)**
+14. **Optional Chaining**
+15. **Error Handling (`Error Handling`)**
+16. **Nested Types**
 
 ## Advanced Level - Expert Swift
-20. **Generics (`Generics`)**
-21. **Type Casting**
-22. **Extensions (`extension`)**
-23. **Protocols (`protocol`) and Implementations**
-24. **Opaque and Boxed Protocol Types**
-25. **Property Observers (`willSet`, `didSet`)**
-26. **Macros**
-27. **Delegation and Observer Pattern**
-28. **Concurrency with Async/Await, GCD, and DispatchQueue**
-29. **Memory Management and ARC (Automatic Reference Counting)**
-30. **Combine Framework and Reactive Programming**
+17. **Generics (`Generics`)**
+18. **Type Casting**
+19. **Extensions (`extension`)**
+20. **Protocols (`protocol`) and Implementations**
+21. **Opaque and Boxed Protocol Types**
+22. **Property Observers (`willSet`, `didSet`)**
+23. **Macros**
+24. **Delegation and Observer Pattern**
+25. **Concurrency with Async/Await, GCD, and DispatchQueue**
+26. **Memory Management and ARC (Automatic Reference Counting)**
+27. **Combine Framework and Reactive Programming**
