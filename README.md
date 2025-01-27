@@ -8,15 +8,15 @@ This repository contains my Swift learning journey, covering fundamentals to adv
 1. **Variables and Constants** (`var`, `let`, data types)
 2. **Operators** (arithmetic, comparison, logical, assignment)
 2. **Collection Types** (`Array`, `Set`, `Dictionary`)
-3 **Control Flow** (`if`, `else`, `switch`, loops)
+3  **Control Flow** (`if`, `else`, `switch`, loops)
 4. **Functions** (parameters, return types, default values)
 5. **Closures (`Closures`)**
 6. **Enumerations (`Enums`)**
 
 ## Intermediate Level - Object-Oriented Programming (OOP)
-7. **Classes and Structures (`class`, `struct`)**
-8. **Properties (`Stored & Computed`)**
-9. **Methods**
+7.  **Classes and Structures (`class`, `struct`)**
+8.  **Properties (`Stored & Computed`)**
+9.  **Methods**
 10. **Subscripts**
 11. **Inheritance and `super` Keyword**
 12. **Initialization (`init`) and Deinitialization (`deinit`)**
